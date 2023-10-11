@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://raw-github.proxyi.cn/qq-aaa/img/main/img/10/12/06/BIXJDKEG0PXP.png
+#EXTINF:2.280000,
+https://raw-github.proxyi.cn/qq-aaa/img/main/img/10/12/06/CK9RQCCQH9MC.png
+#EXT-X-ENDLIST
