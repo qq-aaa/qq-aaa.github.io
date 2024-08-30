@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.687889,
+https://oss.kiscloud.net/file/ty-app-wechat/image/20240830/20240830234951_53cbcf25-9bc4-4ee1-9159-66cec9ce78c8.jpg
+#EXTINF:2.280000,
+https://oss.kiscloud.net/file/ty-app-wechat/image/20240830/20240830234951_9e054ea1-1b0b-41e0-832c-4137b634608d.jpg
+#EXT-X-ENDLIST
